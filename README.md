@@ -5,6 +5,6 @@
 This mandala art shapes are made by manipulating circles and octagons using loops.<br/>
 Its colors are inspired by 'Aurora borealis', the lights of the northern hemisphere, implemented using conditionals and arrays.
 
-References:
+References:<br/>
 petal  - https://pythonturtle.academy/tutorial-drawing-a-flower-petal-or-a-leaf-with-python-turtle/<br/>
 octagon function - https://youtu.be/WiShwgtWWHI
