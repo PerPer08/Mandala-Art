@@ -114,5 +114,7 @@ for k in range(12):
 
 squirtle.exitonclick()
 
-
+#References: 
+#petal - https://pythonturtle.academy/tutorial-drawing-a-flower-petal-or-a-leaf-with-python-turtle/ 
+#octagon function - https://youtu.be/WiShwgtWWHI
     
